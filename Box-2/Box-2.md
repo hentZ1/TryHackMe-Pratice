@@ -26,7 +26,6 @@ salt for pass: 1dac0d92e9fa6bb2
 username: mitch
 email: admin@admin.com
 password: 0c01f4468bd75d7a84c7eb73846e8d96
-
 `
 * EDB-ID: 46635
 # Craking the hash
