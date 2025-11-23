@@ -31,7 +31,7 @@ password: 0c01f4468bd75d7a84c7eb73846e8d96
 # Craking the hash
 
 hash type: MD5
-hash mode: 20 ($salt,$pass)
+hash mode: 20 ($pass,$salt)
 
 password: secret
 
